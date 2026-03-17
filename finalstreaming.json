@@ -1,0 +1,137 @@
+[
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/Netflix.png",
+    "hideTitle": true,
+    "id": "A1F3C9E2-7B44-4D8E-9A12-3E9F1A2B7C11",
+    "layout": "Wide",
+    "name": "Netflix",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Netflix",
+          "listSlug": "netflix",
+          "traktId": 20764471,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Netflix",
+        "listSlug": "netflix",
+        "traktId": 20764471,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/AppleTV%2B.png",
+    "hideTitle": true,
+    "id": "B2A7E6D4-2C11-4E9B-8C77-5F0D2A3E4B22",
+    "layout": "Wide",
+    "name": "Apple TV+",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Apple TV+",
+          "listSlug": "apple-tv",
+          "traktId": 20880646,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Apple TV+",
+        "listSlug": "apple-tv",
+        "traktId": 20880646,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/Disney%2B.png",
+    "hideTitle": true,
+    "id": "C3D8B7A5-9E33-4A11-8F99-6A1E2B3C5D33",
+    "layout": "Wide",
+    "name": "Disney+",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Disney+",
+          "listSlug": "disney-plus",
+          "traktId": 20764507,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Disney+",
+        "listSlug": "disney-plus",
+        "traktId": 20764507,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/prime%20video.png",
+    "hideTitle": true,
+    "id": "D4E9C8B6-1A55-4F22-9B88-7C2F3D4E6F44",
+    "layout": "Wide",
+    "name": "Prime Video",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Prime Video",
+          "listSlug": "amazon-prime",
+          "traktId": 20764523,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Prime Video",
+        "listSlug": "amazon-prime",
+        "traktId": 20764523,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/HBOmax.png",
+    "hideTitle": true,
+    "id": "E5F1D9C7-3B66-4A33-8D77-8E3F4A5B7C55",
+    "layout": "Wide",
+    "name": "HBO Max",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "HBO Max",
+          "listSlug": "hbo-max",
+          "traktId": 20764535,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "HBO Max",
+        "listSlug": "hbo-max",
+        "traktId": 20764535,
+        "username": "garycrawfordgc"
+      }
+    }
+  }
+]
