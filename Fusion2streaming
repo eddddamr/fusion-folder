@@ -1,0 +1,218 @@
+[
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/Netflix.png",
+    "hideTitle": true,
+    "id": "netflix",
+    "layout": "Wide",
+    "name": "Netflix",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Netflix (Gary Crawford)",
+          "listSlug": "netflix",
+          "traktId": 20764471,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Netflix (Gary Crawford)",
+        "listSlug": "netflix",
+        "traktId": 20764471,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/AppleTV%2B.png",
+    "hideTitle": true,
+    "id": "appletvplus",
+    "layout": "Wide",
+    "name": "Apple TV+",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Apple TV+ (Mixed)",
+          "listSlug": "apple-tv",
+          "traktId": 20880646,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Apple TV+ (Mixed)",
+        "listSlug": "apple-tv",
+        "traktId": 20880646,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/Disney%2B.png",
+    "hideTitle": true,
+    "id": "disneyplus",
+    "layout": "Wide",
+    "name": "Disney+",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Disney+ (Mixed)",
+          "listSlug": "disney-plus",
+          "traktId": 20764507,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Disney+ (Mixed)",
+        "listSlug": "disney-plus",
+        "traktId": 20764507,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/prime%20video.png",
+    "hideTitle": true,
+    "id": "primevideo",
+    "layout": "Wide",
+    "name": "Prime Video",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Amazon Prime (Mixed)",
+          "listSlug": "amazon-prime",
+          "traktId": 20764523,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Amazon Prime (Mixed)",
+        "listSlug": "amazon-prime",
+        "traktId": 20764523,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/HBOmax.png",
+    "hideTitle": true,
+    "id": "hbomax",
+    "layout": "Wide",
+    "name": "HBO Max",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "HBO / Max (Mixed)",
+          "listSlug": "hbo-max",
+          "traktId": 20764535,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "HBO / Max (Mixed)",
+        "listSlug": "hbo-max",
+        "traktId": 20764535,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/Paramount%2B.png",
+    "hideTitle": true,
+    "id": "paramountplus",
+    "layout": "Wide",
+    "name": "Paramount+",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Paramount+ (Mixed)",
+          "listSlug": "paramount-plus",
+          "traktId": 20764549,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Paramount+ (Mixed)",
+        "listSlug": "paramount-plus",
+        "traktId": 20764549,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/Hulu.png",
+    "hideTitle": true,
+    "id": "hulu",
+    "layout": "Wide",
+    "name": "Hulu",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Hulu (Mixed)",
+          "listSlug": "hulu",
+          "traktId": 20764562,
+          "username": "garycrawfordgc"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Hulu (Mixed)",
+        "listSlug": "hulu",
+        "traktId": 20764562,
+        "username": "garycrawfordgc"
+      }
+    }
+  },
+  {
+    "backgroundImageURL": "https://raw.githubusercontent.com/eddddamr/fusion-folder/refs/heads/main/Mubi2.webp",
+    "hideTitle": true,
+    "id": "mubi",
+    "layout": "Wide",
+    "name": "Mubi",
+    "dataSources": [
+      {
+        "kind": "traktList",
+        "payload": {
+          "listName": "Mubi Collection",
+          "listSlug": "mubi",
+          "traktId": 23915609,
+          "username": "hdlists"
+        }
+      }
+    ],
+    "dataSource": {
+      "kind": "traktList",
+      "payload": {
+        "listName": "Mubi Collection",
+        "listSlug": "mubi",
+        "traktId": 23915609,
+        "username": "hdlists"
+      }
+    }
+  }
+]
